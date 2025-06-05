@@ -1,7 +1,7 @@
 package lab1;
 
 public class Task3 {
-    // Клас User з усіма необхідними полями
+    // Клас User з усіма необхідними полямиds
     static class User {
         int id;
         int age;
